@@ -1,0 +1,2 @@
+Tower Defense Hra
+Jednoducha tower defense hra, hra sa na mape nacitanej z txt suboru, hrac stavia veze na urcenych miestach, mapou prechadza urcity pocet nepriatelov najkratsou cestou cez mapu. Veze ich musia zastavit, pokial prejdu 3 nepriatelia, hrac prehral, pokial hrac porazi vsetkych nepriatelov, hrac vyhral.
